@@ -57,7 +57,7 @@ public class Tesis extends Escrito{
 		return interpretacion;
 	}
 	
-	String interpretacion() {
+	public String interpretacion() {
 		return this.interpretacion;
 	}
 	
